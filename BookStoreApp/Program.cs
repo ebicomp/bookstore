@@ -1,4 +1,7 @@
-﻿using Serilog;
+﻿using BookStoreApp.API.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +15,10 @@ builder.Services.AddSwaggerGen();
 builder.Host.UseSerilog((cnx, lc)=> 
     lc.WriteTo.Console()
     .ReadFrom.Configuration(cnx.Configuration));
+
+builder.Services.AddDbContext<BookStoreDbCOntext>(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("BookStoreConnection")));
+
 
 
 builder.Services.AddCors(options => {
