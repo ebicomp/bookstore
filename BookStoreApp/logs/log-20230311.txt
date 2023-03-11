@@ -1,0 +1,31 @@
+2023-03-11 20:49:13.784 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-11 20:49:13.796 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-11 20:49:13.797 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-11 20:49:13.797 +01:00 [INF] Hosting environment: Development
+2023-03-11 20:49:13.797 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-11 20:49:24.377 +01:00 [INF] this is the normal call
+2023-03-11 20:49:24.454 +01:00 [ERR] error
+System.Exception: this was called with exception
+   at BookStoreApp.Controllers.WeatherForecastController.Get() in /Users/akarimi/Projects/BookStoreApp/BookStoreApp/Controllers/WeatherForecastController.cs:line 27
+2023-03-11 20:50:56.383 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-11 20:50:56.395 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-11 20:50:56.396 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-11 20:50:56.396 +01:00 [INF] Hosting environment: Development
+2023-03-11 20:50:56.396 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-11 20:51:03.173 +01:00 [INF] this is the normal call
+2023-03-11 20:51:03.249 +01:00 [ERR] error
+System.Exception: this was called with exception
+   at BookStoreApp.Controllers.WeatherForecastController.Get() in /Users/akarimi/Projects/BookStoreApp/BookStoreApp/Controllers/WeatherForecastController.cs:line 27
+2023-03-11 21:00:44.149 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-11 21:00:44.161 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-11 21:00:44.163 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-11 21:00:44.163 +01:00 [INF] Hosting environment: Development
+2023-03-11 21:00:44.163 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-11 21:01:11.236 +01:00 [INF] this is the normal call
+2023-03-11 21:01:11.310 +01:00 [ERR] error
+System.Exception: this was called with exception
+   at BookStoreApp.Controllers.WeatherForecastController.Get() in /Users/akarimi/Projects/BookStoreApp/BookStoreApp/Controllers/WeatherForecastController.cs:line 27
+2023-03-11 21:01:12.759 +01:00 [INF] this is the normal call
+2023-03-11 21:01:12.791 +01:00 [ERR] error
+System.Exception: this was called with exception
+   at BookStoreApp.Controllers.WeatherForecastController.Get() in /Users/akarimi/Projects/BookStoreApp/BookStoreApp/Controllers/WeatherForecastController.cs:line 27
