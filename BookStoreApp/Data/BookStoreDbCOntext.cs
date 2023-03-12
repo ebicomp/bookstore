@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookStoreApp.API.Data
 {
-	public class BookStoreDbCOntext:DbContext
+	public class BookStoreDbContext:DbContext
 	{
-        public BookStoreDbCOntext(DbContextOptions options) : base(options)
+        public BookStoreDbContext(DbContextOptions options) : base(options)
 		{
 
         }
