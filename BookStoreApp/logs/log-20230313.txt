@@ -1,0 +1,51 @@
+2023-03-13 10:09:42.492 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 10:09:42.506 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 10:09:42.507 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 10:09:42.507 +01:00 [INF] Hosting environment: Development
+2023-03-13 10:09:42.507 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 10:10:57.271 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 10:10:57.285 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 10:10:57.286 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 10:10:57.286 +01:00 [INF] Hosting environment: Development
+2023-03-13 10:10:57.286 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 10:14:26.312 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 10:14:26.327 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 10:14:26.328 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 10:14:26.328 +01:00 [INF] Hosting environment: Development
+2023-03-13 10:14:26.328 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 10:14:58.701 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Book'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-03-13 10:32:22.169 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 10:32:22.186 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 10:32:22.187 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 10:32:22.187 +01:00 [INF] Hosting environment: Development
+2023-03-13 10:32:22.187 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 10:32:50.508 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Book'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-03-13 10:36:58.357 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 10:36:58.398 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 10:36:58.399 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 10:36:58.399 +01:00 [INF] Hosting environment: Development
+2023-03-13 10:36:58.399 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 10:37:18.767 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Book'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-03-13 11:23:04.686 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 11:23:04.703 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 11:23:04.704 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 11:23:04.704 +01:00 [INF] Hosting environment: Development
+2023-03-13 11:23:04.704 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 11:23:38.401 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Book'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-03-13 11:24:09.454 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 11:24:09.469 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 11:24:09.471 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 11:24:09.471 +01:00 [INF] Hosting environment: Development
+2023-03-13 11:24:09.471 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 11:24:49.460 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Book'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-03-13 11:29:08.301 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 11:29:08.317 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 11:29:08.318 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 11:29:08.318 +01:00 [INF] Hosting environment: Development
+2023-03-13 11:29:08.318 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 11:35:09.008 +01:00 [INF] Now listening on: https://localhost:7124
+2023-03-13 11:35:09.023 +01:00 [INF] Now listening on: http://localhost:5244
+2023-03-13 11:35:09.024 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-13 11:35:09.024 +01:00 [INF] Hosting environment: Development
+2023-03-13 11:35:09.024 +01:00 [INF] Content root path: /Users/akarimi/Projects/BookStoreApp/BookStoreApp
+2023-03-13 11:37:10.336 +01:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Book'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.

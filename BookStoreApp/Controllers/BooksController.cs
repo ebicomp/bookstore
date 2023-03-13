@@ -6,6 +6,7 @@ using AutoMapper;
 using BookStoreApp.API.Data;
 using BookStoreApp.API.Models.Books;
 using BookStoreApp.API.Static;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,6 +16,7 @@ namespace BookStoreApp.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class BooksController : ControllerBase
     {
         private readonly BookStoreDbContext context;
@@ -69,6 +71,7 @@ namespace BookStoreApp.API.Controllers
 
         // POST api/values
         [HttpPost]
+        [Authorize(Roles ="Administrator")]
         public async Task<ActionResult<CreateBookDto>> CreateBook([FromBody]CreateBookDto fromBook)
         {
             try
