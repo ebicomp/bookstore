@@ -38,11 +38,11 @@ else
 }
 
 @code {
-    private WeatherForecast[]? forecasts;
+    private BookStore.Blazor.Server.UI.Data.WeatherForecast[]? forecasts;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await ForecastService.GetForecastAsync(DateOnly.FromDateTime(DateTime.Now));
+        forecasts = await ForecastService.GetForecastAsync(System.DateOnly.FromDateTime(DateTime.Now));
     }
 }
 
